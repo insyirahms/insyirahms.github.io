@@ -1,23 +1,23 @@
 
 body {
-    background-color: honeydew;
+    background-color: yellowgreen;
 }
 
 h1 {
     text-align: center;
     color: blue;
-    font-family: Helvetica;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h2 {
     text-align: left;
     color: cornflowerblue;
     font-style: italic;
-    font-family: Helvetica;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 p {
     text-align: left;
     color: darkslategray;
-    font-family: Verdana;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
