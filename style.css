@@ -1,0 +1,23 @@
+
+body {
+    background-color: honeydew;
+}
+
+h1 {
+    text-align: center;
+    color: blue;
+    font-family: Helvetica;
+}
+
+h2 {
+    text-align: left;
+    color: cornflowerblue;
+    font-style: italic;
+    font-family: Helvetica;
+}
+
+p {
+    text-align: left;
+    color: darkslategray;
+    font-family: Verdana;
+}
